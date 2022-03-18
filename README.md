@@ -1,3 +1,3 @@
 # Glow
 
-https://ryukevinn.github.io/Glow/
+https://ryukevinn.github.io/React_Glow/
