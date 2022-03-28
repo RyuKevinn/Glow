@@ -23,7 +23,9 @@ https://ryukevinn.github.io/React_Glow/
 
 사용 프로그램 및 데이터
 
-1. API data - current weather data = https://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&appid=5eb107829897c53a70f4025f453107d9
+1. API data 
+            - current weather data = https://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&appid=5eb107829897c53a70f4025f453107d9
+ 
             - week weather data = https://api.openweathermap.org/data/2.5/forecast?q=seoul&units=metric&cnt=35&appid=5eb107829897c53a70f4025f453107d9
          
 2. DatePicker (React-Datepicker)
@@ -49,8 +51,8 @@ https://ryukevinn.github.io/React_Glow/
             
               1. [ 추출 데이터 양이 적은 current weather data 의 경우 각 항목을 직접 지정하여 useState로 추출]
               
-              2. [ 데이더 양이 많고 일부 데이터만 추출 해야 하는 week weather data 의 경우]
-![KakaoTalk_20220328_112236801](https://user-images.githubusercontent.com/96170774/160316129-6ae86815-ac84-470c-a4c1-2bbfe71e2c93.png)
+              2. [ 데이더 양이 많고 일부 데이터만 추출 해야 하는 week weather data 의 경우
+![KakaoTalk_20220328_112236801](https://user-images.githubusercontent.com/96170774/160316129-6ae86815-ac84-470c-a4c1-2bbfe71e2c93.png)]
 
 
 
