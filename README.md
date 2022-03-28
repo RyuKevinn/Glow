@@ -51,6 +51,12 @@ https://ryukevinn.github.io/React_Glow/
             =해결방안
             
               1. [ 추출 데이터 양이 적은 current weather data 의 경우 각 항목을 직접 지정하여 useState로 추출]
+              ![KakaoTalk_20220328_113206504](https://user-images.githubusercontent.com/96170774/160316661-a7b013ef-1294-4674-98af-17d4269555d2.png)
+
+              
+              
+              
+              
               
               2. [ 데이더 양이 많고 일부 데이터만 추출 해야 하는 week weather data 의 경우 아래 이미지 참조]
 ![KakaoTalk_20220328_112236801](https://user-images.githubusercontent.com/96170774/160316129-6ae86815-ac84-470c-a4c1-2bbfe71e2c93.png)
