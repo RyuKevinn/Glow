@@ -51,7 +51,8 @@ https://ryukevinn.github.io/React_Glow/
             =해결방안
             
               1. [ 추출 데이터 양이 적은 current weather data 의 경우 각 항목을 직접 지정하여 useState로 추출]
-              ![KakaoTalk_20220328_113206504](https://user-images.githubusercontent.com/96170774/160316722-7f8dcd00-aa71-4b34-b0e8-2beabbe1105a.png)
+            
+         ![KakaoTalk_20220328_113206504](https://user-images.githubusercontent.com/96170774/160316722-7f8dcd00-aa71-4b34-b0e8-2beabbe1105a.png)
 
 
               
