@@ -44,8 +44,11 @@ https://ryukevinn.github.io/React_Glow/
 
   ★어려웠던 부분
       - API 데이더 호출 시 순수 배열 데이터가 아닌 점
+      
             =해결방안
+            
               1. [ 추출 데이터 양이 적은 current weather data 의 경우 각 항목을 직접 지정하여 useState로 추출]
+              
               2. [ 데이더 양이 많고 일부 데이터만 추출 해야 하는 week weather data 의 경우]
 ![KakaoTalk_20220328_112236801](https://user-images.githubusercontent.com/96170774/160316129-6ae86815-ac84-470c-a4c1-2bbfe71e2c93.png)
 
