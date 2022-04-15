@@ -44,8 +44,9 @@ Link  - https://ryukevinn.github.io/React_Glow/
 ---------------------------------
 
 API 데이터 정보
-      
-            Current Weather
+
+Current Weather      
+
             
               1. [Json Data Sample]
  ![KakaoTalk_20220415_122918422](https://user-images.githubusercontent.com/96170774/163513981-08232094-4cfd-4c97-b6c6-a42cf4cff393.png)
