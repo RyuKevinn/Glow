@@ -50,9 +50,11 @@ API 데이터 정보
             Current Weather
             
               1. [Json Data Sample]
-                       ![KakaoTalk_20220415_122918422](https://user-images.githubusercontent.com/96170774/163513914-6f697cd3-4d99-4796-8173-fc2448e4ac6d.png)
+ ![KakaoTalk_20220415_122918422](https://user-images.githubusercontent.com/96170774/163513981-08232094-4cfd-4c97-b6c6-a42cf4cff393.png)
+                      
               2. [In Web]
-                        ![zzzzzzz](https://user-images.githubusercontent.com/96170774/163513778-91b257ea-3346-4673-a494-76d8e1728909.png)
+ ![zzzzzzz](https://user-images.githubusercontent.com/96170774/163513985-2d4e9c7f-757f-4957-b7e1-8306bf5886af.png)
+                       
 
 
 
