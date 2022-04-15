@@ -45,7 +45,8 @@ Link  - https://ryukevinn.github.io/React_Glow/
 
 API 데이터 정보
 
-Current Weather      
+<h1>Current Weather<h1>      
+            -  API Link = https://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&appid=5eb107829897c53a70f4025f453107d9
 
             
               1. [Json Data Sample]
