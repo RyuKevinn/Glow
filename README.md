@@ -44,8 +44,6 @@ Link  - https://ryukevinn.github.io/React_Glow/
 ---------------------------------
 
 API 데이터 정보
-
-      - API 데이더 호출 시 순수 배열 데이터가 아닌 점
       
             Current Weather
             
