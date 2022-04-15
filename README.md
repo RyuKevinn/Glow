@@ -24,11 +24,6 @@ Link  - https://ryukevinn.github.io/React_Glow/
 사용 기술 및 데이터
 
 1. API data 
-
-            - current weather data = https://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&appid=5eb107829897c53a70f4025f453107d9
- 
-            - week weather data = https://api.openweathermap.org/data/2.5/forecast?q=seoul&units=metric&cnt=35&appid=5eb107829897c53a70f4025f453107d9
-         
 2. DatePicker (React-Datepicker)
 3. Google Map
 4. AOS animation 
@@ -43,9 +38,9 @@ Link  - https://ryukevinn.github.io/React_Glow/
 13. switch/case
 ---------------------------------
 
-API 데이터 정보
+<h2>API 데이터 정보</h2>
 
-<h1>Current Weather</h1>      
+<h3>Current Weather</h3>      
             -  API Link = https://api.openweathermap.org/data/2.5/weather?q=seoul&units=metric&appid=5eb107829897c53a70f4025f453107d9
 
             
@@ -56,6 +51,16 @@ API 데이터 정보
  ![zzzzzzz](https://user-images.githubusercontent.com/96170774/163513985-2d4e9c7f-757f-4957-b7e1-8306bf5886af.png)
                        
 
+<h3>4Days Weather</h3>      
+            -  API Link = https://api.openweathermap.org/data/2.5/forecast?q=seoul&units=metric&cnt=35&appid=5eb107829897c53a70f4025f453107d9
+
+            
+              1. [Json Data Sample]
+ ![dsad](https://user-images.githubusercontent.com/96170774/163515302-fbdc34ff-9ff0-404e-adb9-7c4c33249e49.png)
+
+                      
+              2. [In Web]
+ ![xxxxxxxxxx](https://user-images.githubusercontent.com/96170774/163515287-6b278b15-f7d1-4b29-be50-7755b1e13d73.png)
 
 
 
