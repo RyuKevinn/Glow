@@ -13,15 +13,15 @@ Link  - https://ryukevinn.github.io/React_Glow/
 
 ---------------------------------
 
-사용 프로그램 : VSC (Visual Studio Code)
+사용 에디터 : VSC (Visual Studio Code)
 
 ---------------------------------
 
-사용 라이브러리 : React.js
+사용 프로그램 언어 : React.js
 
 ---------------------------------
 
-사용 프로그램 및 데이터
+사용 기술 및 데이터
 
 1. API data 
 
@@ -41,6 +41,24 @@ Link  - https://ryukevinn.github.io/React_Glow/
 11. Styled-Components
 12. classnames
 13. switch/case
+---------------------------------
+
+API 데이터 정보
+
+      - API 데이더 호출 시 순수 배열 데이터가 아닌 점
+      
+            Current Weather
+            
+              1. [Json Data]
+![KakaoTalk_20220415_122918422](https://user-images.githubusercontent.com/96170774/163513722-d6638db7-8d85-41f2-b9c5-fa4bf6056652.png)
+
+              2. [In Web]
+![zzzzzzz](https://user-images.githubusercontent.com/96170774/163513778-91b257ea-3346-4673-a494-76d8e1728909.png)
+
+
+
+
+
 ---------------------------------
 
 프로젝트 진행 사항
