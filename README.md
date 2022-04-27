@@ -1,6 +1,6 @@
 # Glow
 
-Link  - https://ryukevinn.github.io/React_Glow/
+Link  - https://ryukevinn.github.io/React_Glow/ <br>
 *코드 확인은 .zip 파일에서 확인 
 
 ---------------------------------
